@@ -216,7 +216,11 @@ ai_evolution
 
 Comme on le remarque, cette évolution ne suit pas une trajectoire
 linéaire.  Depuis 2015, la plupart de ces technologies ont évolué
-de manière quasi exponentielle. Cette progression fulgurante nous
+de manière quasi exponentielle. 
+
+=> ajouter une dimension environnementale = le problème du bilan carbone associé aux serveurs immenses permettant l'usage de l'IA mais sa trop récente apparition ne permettant pas encore de chercher comment limiter l'impact ni de faire une classification claire de l'impact environnemental de chacune des IA qui existent et se créent chaque jour (cf discussion en classe lors du cours sur l'IA)
+
+Cette progression fulgurante nous
 permet de faire quelques constats pour appréhender l'évolution
 future. Tout d'abord, le développement dans les capacités de l'IA
 permet d'accélérer de manière exponentielle le champ dans son
